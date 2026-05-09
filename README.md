@@ -1,4 +1,4 @@
-# Async RAG Backend
+# Async RAG System
 
 A lightweight asynchronous RAG-style backend built with FastAPI, RQ, and Qdrant.
 
